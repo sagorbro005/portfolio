@@ -1,7 +1,6 @@
 # 🚀 MD SHAHADAT HOSSAIN SAGOR -- Developer Portfolio
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-sagor.io-10b981?style=for-the-badge&logo=githubpages&logoColor=white)](https://sagorbro005.github.io/portfolio/)
-[![Degree](https://img.shields.io/badge/B.Sc.%20CS-BRAC%20University-06b6d4?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.bracu.ac.bd/)
 [![GitHub](https://img.shields.io/badge/GitHub-sagorbro005-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sagorbro005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sagorbro005-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagorbro005)
 
@@ -26,7 +25,7 @@
 
 ---
 
-## 👤 Summary & Core Qualifications
+<!-- ## 👤 Summary & Core Qualifications
 
 Computer Science graduate from **BRAC University (CGPA: 3.74/4.00)** with experience in Artificial Intelligence, Machine Learning, Full-Stack Development, and Data Science. Built AI-powered applications, Retrieval-Augmented Generation (RAG) systems, prompt engineering platforms, and scalable web solutions using modern development frameworks.
 
@@ -95,7 +94,7 @@ Computer Science graduate from **BRAC University (CGPA: 3.74/4.00)** with experi
 - **Databases**: MongoDB, PostgreSQL, SQLite, ChromaDB, Supabase
 - **Tools & Automation**: n8n, Docker, Git, GitHub, VS Code
 
----
+--- -->
 
 ## 💻 Local Installation & Setup
 
@@ -126,4 +125,12 @@ Computer Science graduate from **BRAC University (CGPA: 3.74/4.00)** with experi
 
 ---
 
-&copy; 2026 MD SHAHADAT HOSSAIN SAGOR. All rights reserved.
+## License
+
+Free to use for personal and commercial projects.
+
+---
+
+**Made by Sagor - Customize it and make it your own!**
+
+&copy; 2026 @sagorbro005. All rights reserved.
